@@ -268,6 +268,11 @@ Bonus: 500
 Built with ❤️ by a group of 6 
 
 Instructor: Eng.Yara
+
+
+
+<div align="center">
+
 Team:
 Amen Saeed,Lamia Kamal,Jana Mohamed,Mohamed Adel,Ashrakat galal,Hala Salama
 
