@@ -10,8 +10,16 @@ void Employee::setEmployee(string n, string d, string p, string a, int i, float 
     address = a; id = i; salary = s; bonus = b;
 }
 
+void Employee::setColor(int color) {
+    HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);
+    SetConsoleTextAttribute(h, color);
+}
+
+
 void Employee::display() {
+    setColor(12);
     cout << " Employee Information " << endl;
+    setColor(3);
     cout << "Name: " << name << endl;
     cout << "Department:" << department << endl;
     cout << "Position:" << position << endl;
@@ -19,5 +27,6 @@ void Employee::display() {
     cout << "ID: " << id << endl;
     cout << "Salary: $" << salary << endl;
     cout << "Bonus:" << bonus << endl;
+    setColor(15);
     cout << "------------------------------------" << endl;
 }
