@@ -14,5 +14,6 @@ public:
     int get_rooms();
     bool get_hasGarden();
     bool get_hasGarage();
+    void setColor(int color);
     void display();
 };
