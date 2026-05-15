@@ -265,7 +265,11 @@ Bonus: 500
 
 <div align="center">
 
-Built with ❤️ by a group of 6 — Faculty OOP Project · 2026
+Built with ❤️ by a group of 6 
+
+Instructor: Eng.Yara
+Team:
+Amen Saeed,Lamia Kamal,Jana Mohamed,Mohamed Adel,Ashrakat galal,Hala Salama
 
 </div>
 
