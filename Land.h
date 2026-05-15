@@ -11,5 +11,7 @@ public:
     Land(string add, double area, string type, bool status, double tp);
     string get_landType();
     bool get_hasWaterAndElectricity();
+
+    void setColor(int color);
     void display();
 };
