@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="artworks-000128521170-ibelur-t500x500.jpg" alt="Real Estate System" width="300"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=🏠+Real+Estate+System;C%2B%2B+OOP+Project;Manage+Properties+with+Style" alt="Typing SVG" />
+
 
 <br/>
 
