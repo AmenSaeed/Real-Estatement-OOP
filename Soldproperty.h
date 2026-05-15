@@ -16,5 +16,6 @@ public:
     string get_date();
     double get_Price();
     string get_soldby();
+    void setColor(int color);
     void display();
 };
