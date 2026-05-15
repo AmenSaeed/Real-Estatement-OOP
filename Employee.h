@@ -16,5 +16,6 @@ private:
 public:
     Employee(string n, string d, string p, string a, int i, float s, float b);
     void setEmployee(string n, string d, string p, string a, int i, float s, float b);
+    void setColor(int color);
     void display();
 };
