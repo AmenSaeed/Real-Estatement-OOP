@@ -3,7 +3,7 @@
 
 class Apartment : public Available {
 private:
-    int floor;
+    string floor;
 
 public:
     Apartment();
